@@ -1,2 +1,2 @@
 # hello-world
-Sebuah System pemula
+Seseorang yang ingin mewujudkan mimpi menjadi seorang hacker
